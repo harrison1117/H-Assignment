@@ -1,6 +1,6 @@
 *** Settings ***
 Library  AppiumLibrary
-Library   RequestsLibrary
+Library  RequestsLibrary
 Library  BuiltIn
 
 
@@ -13,7 +13,8 @@ ${ANDROID_APP_PACKAGE}        io.appium.android.apis
 
 
 *** Test Cases ***
-Open Android Test App
+Test Case - APP - 2.01 - Open Android Test App
+  [Tags]    APP
   open Application  http://127.0.0.1:4723  automationName=${ANDROID_AUTOMATION_NAME}
   ...  platformName=${ANDROID_PLATFORM_NAME}  platformVersion=13
   ...  app=${ANDROID_APP}  appPackage=io.appium.android.apis  appActivity=.app.SearchInvoke

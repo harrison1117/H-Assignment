@@ -1,5 +1,6 @@
 import secrets
 import random
+import selenium
 
 
 def user_info_creation():

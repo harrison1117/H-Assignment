@@ -4,6 +4,7 @@ Library   RequestsLibrary
 Library   Collections
 Library   assignment_info.py
 
+
 *** Variables ***
 ${Base_URL}         https://gorest.co.in/public/v2
 ${API_path_user}    users
