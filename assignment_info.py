@@ -1,6 +1,6 @@
 import secrets
 import random
-import selenium
+import re
 
 
 def user_info_creation():
@@ -18,3 +18,9 @@ def user_info_creation():
     return user_dict
 
 
+def extract_number_from_search_result(search_res):
+    extract = re.findall("\d+", search_res)
+    res = ""
+    for x in extract:
+        res += x
+    return int(res)

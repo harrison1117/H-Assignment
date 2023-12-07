@@ -1,8 +1,8 @@
 *** Settings ***
-Library  AppiumLibrary
-Library  RequestsLibrary
-Library  BuiltIn
-
+Documentation    Simple example using Appium and create one test case with Android emulator
+Library          AppiumLibrary
+Library          RequestsLibrary
+Library          BuiltIn
 
 *** Variables ***
 ${ANDROID_AUTOMATION_NAME}    UIAutomator2
