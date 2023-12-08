@@ -27,10 +27,12 @@ There are some prerequisites which need to be satisfied as following:
 4. Run "robot -i all .." in the terminal. This means run all the test case file with the tag name "all".
 
 6. After robot run, the results could be found in the terminal
-<img width="691" alt="Screenshot 2023-12-08 at 12 06 32 PM" src="https://github.com/harrison1117/H-Assignment/assets/152993736/6e969e5e-20df-45f9-9059-ed1da3e4311f">
+<img width="691" alt="Screenshot 2023-12-08 at 12 06 32 PM" src="https://github.com/harrison1117/H-Assignment/assets/152993736/1efd13e9-8020-4d82-ba29-189df1a7b664">
+
 
 7. See the log for the whole run results through browser.
-<img width="1439" alt="Screenshot 2023-12-08 at 12 12 24 PM" src="https://github.com/harrison1117/H-Assignment/assets/152993736/98f3a020-ee3e-49ca-8851-ae0790dcd086">
+<img width="1439" alt="Screenshot 2023-12-08 at 12 12 24 PM" src="https://github.com/harrison1117/H-Assignment/assets/152993736/7124313c-3484-4963-9122-8671f1eb043f">
+
 
 
 
