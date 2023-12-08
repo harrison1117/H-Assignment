@@ -11,6 +11,7 @@ There are some prerequisites which need to be satisfied as following:
 4. Use your preferred IDE(Pycharm or Visual Studio). If Pycharm is selected, please install a nice plugin. This project is used "Hyper Robotframework Support"
 5. Open the terminal and install the libraries with "pip install -r requirements.txt". Other versions could be used, but pay attention about the version conflicts.
 6. Driver is a must for web automation, thus correct driver with correct browser version is needed.(e.g. chromedriver -> Chrome and geckodriver -> Firefox.)
+7. Please prepare your own account to get the token for API automation.
 
 
 **Note: The specific operation for Mac and Windows is not the same always due to the operating system.**
