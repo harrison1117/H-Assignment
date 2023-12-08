@@ -19,14 +19,19 @@ There are some prerequisites which need to be satisfied as following:
 
 ## Run Cases
 1. Make sure libraries is installed correctly, you could press command + click to verify if the library could be jumped.
-![](/Users/miaofeng/Desktop/Screenshot 2023-12-08 at 11.55.32 AM.png)
+<img width="820" alt="Screenshot 2023-12-08 at 11 55 32 AM" src="https://github.com/harrison1117/H-Assignment/assets/152993736/6fe6432f-6bd2-4601-a684-a4f1fed9ee7c">
+
 2. If plugin is installed correctly, you could press the green arrow button to run specific test case.
-![](/Users/miaofeng/Desktop/Screenshot 2023-12-08 at 12.00.08 PM.png)
-3. Run "robot -i all .." in the terminal. This means run all the test case file with the tag name "all"
-4. After robot run, the results could be found in the terminal
-![](/Users/miaofeng/Desktop/Screenshot 2023-12-08 at 12.06.32 PM.png)
-5. See the log for the whole run results through browser.
-![](/Users/miaofeng/Desktop/Screenshot 2023-12-08 at 12.12.24 PM.png)
+<img width="662" alt="Screenshot 2023-12-08 at 12 00 08 PM" src="https://github.com/harrison1117/H-Assignment/assets/152993736/8ad0bbea-b204-4d05-970f-d2117fb95ef0">
+
+4. Run "robot -i all .." in the terminal. This means run all the test case file with the tag name "all".
+
+6. After robot run, the results could be found in the terminal
+<img width="691" alt="Screenshot 2023-12-08 at 12 06 32 PM" src="https://github.com/harrison1117/H-Assignment/assets/152993736/6e969e5e-20df-45f9-9059-ed1da3e4311f">
+
+7. See the log for the whole run results through browser.
+<img width="1439" alt="Screenshot 2023-12-08 at 12 12 24 PM" src="https://github.com/harrison1117/H-Assignment/assets/152993736/98f3a020-ee3e-49ca-8851-ae0790dcd086">
+
 
 
 ## Reference
