@@ -14,7 +14,7 @@ ${Token}            Bearer 5754e5848c32b7293faa2309eda3b91c46f3ee0a7c6b84c2fb894
 *** Test Cases ***
 Test Case - API - 1.01 - Create a new user then valid user info
     [Setup]    Create Session   API session   ${Base_URL}    verify=true
-    [Tags]     API
+    [Tags]     API    all
     ${reg_headers}   Create Dictionary    Content-Type=${Content Type}    Authorization=${Token}
     ${user_info}     User Info Creation
     ${user_name}     Set Variable    ${user_info}[name]
